@@ -17,3 +17,4 @@
 - PayPal / credit card integration
 - Database seeder (products & users)
 
+Credit: Brad Traversy MERN course.
